@@ -26,7 +26,7 @@
 ## 🎯 Target Persona & Coverage Scope
 
 ### The Persona: Q-Commerce Delivery Partner
-We focus exclusively on the Q-Commerce sector (e.g., Zepto, Blinkit, Swiggy Instamart). Their business relies on **10-minute SLAs**. Their risk is highly volatile, fluctuating based on hyper-local geography, weather, and civic conditions. Even minor external disruptions instantly halt their operations, making their lost income immediate, verifiable, and perfect for parametric triggers.
+We focus exclusively on the Q-Commerce sector (e.g., Zepto, Blinkit, Swiggy Instamart). Their business relies on **10-minute SLAs**(Service Level Agreements). Their risk is highly volatile, fluctuating based on hyper-local geography, weather, and civic conditions. Even minor external disruptions instantly halt their operations, making their lost income immediate, verifiable, and perfect for parametric triggers.
 
 ### 🛑 Strict Coverage Constraints
 * **INCLUDED:** Loss of income specifically due to external disruptions.
