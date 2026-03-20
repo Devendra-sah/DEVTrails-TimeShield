@@ -83,8 +83,8 @@ Zero-touch payouts require zero-tolerance for fraud. Our anomaly detection model
 
 
 
-### 🛡️ Adversarial Defense & Anti-Spoofing Strategy
-## 🚨 The Crisis Scenario
+# 🛡️ Adversarial Defense & Anti-Spoofing Strategy
+# 🚨 The Crisis Scenario
 
 A coordinated fraud ring of delivery workers uses advanced GPS-spoofing tools to simulate presence inside disruption zones while remaining safely at home. By exploiting naive location verification systems, they trigger large-scale false payouts—posing a direct threat to platform liquidity.
 
@@ -92,7 +92,7 @@ A coordinated fraud ring of delivery workers uses advanced GPS-spoofing tools to
 TimeShield adopts a **zero-trust, adversarially resilient architecture** to prevent such attacks.
 
 
-### 1️. The Differentiation: Real vs Spoofed Presence
+# 1️. The Differentiation: Real vs Spoofed Presence
 
 We move beyond basic GPS validation and implement a **multi-signal behavioral intelligence system.**
 
@@ -100,7 +100,7 @@ Instead of asking “Is the location correct?”, TimeShield evaluates:
 
 **👉 “Is the worker’s behavior consistent with real-world conditions?”**
 
-## 🧠 Multi-Layer Verification:
+# 🧠 Multi-Layer Verification:
 
 **A. Sensor Fusion:** GPS + Accelerometer + Gyroscope cross-validation
 
@@ -110,7 +110,7 @@ Instead of asking “Is the location correct?”, TimeShield evaluates:
 
 **D. Cluster Detection:** Flags synchronized anomalies across multiple users
 
-## 2️. 📊 The Data: Beyond GPS
+# 2️. 📊 The Data: Beyond GPS
 
 TimeShield analyzes multi-dimensional signals to detect fraud:
 
